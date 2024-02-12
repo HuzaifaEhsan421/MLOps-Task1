@@ -1,4 +1,4 @@
-# MLOps-
+# mlop_class_task_1_i202651_and_i200583
 # Even and Odd Number checker
 ## Group Members 
 ### Huzaifa Ehsan 20i-2651

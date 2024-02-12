@@ -1,4 +1,4 @@
-# MLOps-Task1
+# MLOps-
 # Even and Odd Number checker
 ## Group Members 
 ### Huzaifa Ehsan 20i-2651
@@ -7,10 +7,10 @@
 
 1. Clone this repository to your local machine:
 
-   git clone `https://github.com/HuzaifaEhsan421/MLOps-Task1.git`
+   `git clone https://github.com/HuzaifaEhsan421/mlop_class_task_1_i202651_and_i200583.git`
 
 2. Navigate to folder 
-   `cd MLOps-Task1`
+   `cd mlop_class_task_1_i202651_and_i200583`
 
 3. Install the requirements: 
     `pip install -r requirements.txt`
@@ -26,7 +26,7 @@
 
 ## Commands
 
-1. ` git clone https://github.com/HuzaifaEhsan421/MLOps-Task1.`
+1. ` git clone https://github.com/HuzaifaEhsan421mlop_class_task_1_i202651_and_i200583.git.`
 2. ` git branch dev`
 3. ` git branch master`
 4. ` git branch test`
@@ -39,7 +39,7 @@
 10. `git commit -m "Initial Pushing into master"`
 11. `git push origin master`
 ## Hamza's work
-1. `git clone https://github.com/HuzaifaEhsan421MLOps-Task1.git`
+1. `git clone https://github.com/HuzaifaEhsan421/mlop_class_task_1_i202651_and_i200583.git`
  
 2. `git status`
 3. `git branch -b test`
